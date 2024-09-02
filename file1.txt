@@ -1,3 +1,5 @@
 Hello L
-, Thank you for this op. 
+, Thank you for this op.
+
+I am showing my daughter how to use command line code. 
 
